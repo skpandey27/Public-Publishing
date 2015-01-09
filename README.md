@@ -9,9 +9,6 @@ audience:
 status: draft
 phases:
   - discovery
-  - alpha
-  - beta
-  - live
 breadcrumbs:
   -
     title: Home
