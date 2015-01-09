@@ -1,7 +1,7 @@
 ---
 layout: Building Tutorial
 title: Foundations of GitHub Publishing
-subtitle: Basic learning for people delivering publishing services
+subtitle: Publishing for Public 
 category: authors
 type: guide
 audience:
@@ -16,4 +16,4 @@ breadcrumbs:
   -
 ---
 # public
-Publishing for Public
+Basic learning for people delivering publishing services 
