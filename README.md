@@ -13,7 +13,6 @@ breadcrumbs:
   -
     title: Home
     url: /public
-  -
 ---
 # Public Publishing
 Basic learning for people delivering publishing services 
