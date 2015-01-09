@@ -15,5 +15,5 @@ breadcrumbs:
     url: /public
   -
 ---
-# public
+# Public Publishing
 Basic learning for people delivering publishing services 
