@@ -16,8 +16,8 @@ breadcrumbs:
 ---
 # Public Publishing
 Basic learning for people delivering publishing services 
-Content page meta data
-Key	              Values	                  Description
+#Content page meta data
+##Key	              Values	                  Description
 title:	          Page title	              Used at the top of the page, and in links to the page
 subtitle:	        Page subtitle	            Used below page title, and optionally in links to the page
 category	        agile, assisted-digital, user-centred-design, etc	The category the page lives in the browse page
